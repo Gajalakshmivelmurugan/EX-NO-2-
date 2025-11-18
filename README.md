@@ -1,4 +1,4 @@
-z## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
+EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
 ## AIM:
 
@@ -24,10 +24,7 @@ STEP-3: Arrange the keyword without duplicates in a 5*5 matrix in the row order 
 STEP-4: Group the plain text in pairs and match the corresponding corner letters by forming a rectangular grid.
 STEP-5: Display the obtained cipher text.
 
-
-
-
-Program:
+## program:
 ```
 #include <stdio.h> 
 #include <string.h> 
@@ -151,5 +148,7 @@ int main() {
 }
 ```
 
-Output:
+## Output:
+
+
 <img width="653" height="475" alt="Screenshot 2025-08-21 140943" src="https://github.com/user-attachments/assets/58b089aa-633d-4b8f-a619-d1f95fed6b88" />
